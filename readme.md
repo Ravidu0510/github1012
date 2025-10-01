@@ -5,11 +5,9 @@
 !
 this is simple line add for testing git..
 
-This is a bad lines
-lines
-i just
-added
-for fun
+
+I am the good developer who worked correctly.
 
 def print_sum(a):
    print(a**a)
+
