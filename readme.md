@@ -1,10 +1,13 @@
 #This is readme second file...
 
-  -This is feature a branch
-  -The newly added This row.....
+  -This is Hello feature a branch
+  -The newly added neww This row.....
+!
+this is simple line add for testing git..
 
-I added new some good
-Linea
 
 I am the good developer who worked correctly.
+
+def print_sum(a):
+   print(a**a)
 
